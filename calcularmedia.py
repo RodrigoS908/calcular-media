@@ -34,7 +34,7 @@ while i < alunos :
     if x>6:
         print("PASSOU COM", y, "DE FOLGA")
     if x<6:
-        print("FALHOU")
+        print("FALHOU POR", y)
 
     i+=1
     
